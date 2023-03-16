@@ -1,0 +1,7 @@
+CUDA: False
+ONNX_BACKBONE_INIT: 'models/onnx/nanotrack_backbone_init_sim_quant_static.onnx'
+ONNX_BACKBONE: 'models/onnx/nanotrack_backbone_sim_quant_static.onnx'
+ONNX_HEAD: 'models/onnx/nanotrack_head_sim_quant_static.onnx'
+
+
+

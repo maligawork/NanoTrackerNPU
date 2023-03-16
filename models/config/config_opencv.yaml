@@ -1,0 +1,8 @@
+OPENCV_PLATFORM: 'NPU'
+
+OPENCV_BACKBONE_INIT: 'models/onnx/nanotrack_backbone_init_sim_quant_static.onnx'
+OPENCV_BACKBONE: 'models/onnx/nanotrack_backbone_sim_quant_static.onnx'
+OPENCV_HEAD: 'models/onnx/nanotrack_head_one_sim_quant_static.onnx'
+
+
+
